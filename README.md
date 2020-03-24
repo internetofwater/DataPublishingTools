@@ -3,7 +3,13 @@
 
 ## Data Cataloging software
 
-Data catalogs provide ways to discover data sets. They may or may not provide direct access to data. 
+Data catalogs provide ways to discover data sets. They may or may not provide direct access to data.
+
+### CKAN
+
+### Clowder
+
+### 
 
 ## Collaborative data sharing tools
 
@@ -23,4 +29,10 @@ Tools that allow the public or approved users to submit data for sharing with a 
 
 #### Sensor-based
 
-#### 
+##### SOS
+
+##### SensorThings
+
+##### Kisters
+
+##### Aquatic Informatics

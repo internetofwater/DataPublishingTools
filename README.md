@@ -1,5 +1,16 @@
 # Data Publishing Tools
 
+## Data digitization software and workflows
+
+### Open source OCR tools
+
+### Web-based tools
+
+### Enterprise software
+
+### Cloud provider/ machine learning workflows
+
+
 
 ## Data Cataloging software
 

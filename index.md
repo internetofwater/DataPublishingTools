@@ -1,94 +1,37 @@
-# Data Publishing Tools
+## Welcome to GitHub Pages
 
-## Data digitization software and workflows
+You can use the [editor on GitHub](https://github.com/internetofwater/DataPublishingTools/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-### Open source OCR tools
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-Tabula
+### Markdown
 
-Excalibur
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-### Free Web-based tools
+```markdown
+Syntax highlighted code block
 
+# Header 1
+## Header 2
+### Header 3
 
-https://ocr.space
+- Bulleted
+- List
 
-### Enterprise software
+1. Numbered
+2. List
 
-ABBYY FineReader
+**Bold** and _Italic_ and `Code` text
 
-DocParser
+[Link](url) and ![Image](src)
+```
 
-Adobe Acrobat
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Cloud provider/ machine learning workflows
+### Jekyll Themes
 
-AWS Textract
-Google Document AI
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/internetofwater/DataPublishingTools/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-## Data Cataloging software
+### Support or Contact
 
-Data catalogs provide ways to discover data sets. They may or may not provide direct access to data.
-
-### CKAN
-
-### Clowder
-
-### DKAN
-
-### Junar
-
-### Geonode
-
-### ArcGIS Hub
-
-### Hydroshare
-
-## Collaborative data sharing tools
-
-Tools that allow the public or approved users to submit data for sharing with a desired audience (e.g. the public, a government agency, another organization)
-
-### Geonode
-
-## Standardized data publishing tools
-
-### Data Handlers
-
-#### OpenDAP
-
-#### ERDDAP
-
-### Single-type
-
-#### Sensor-based
-
-##### SOS
-
-##### SensorThings
-
-##### Kisters
-
-##### Aquatic Informatics
-
-##### EQuiS
-
-### Geospatial
-
-##### ESRI
-
-##### OGC Standards
-
-##### OGC WFS (Geoserver)
-##### OGC WMS (Geoserver)
-##### OGC WCS (Geoserver)
-##### OGC API - Features (pyGeoAPI)
-
-### Data Standards
-
-##### Water Quality - WQX
-##### Time Series
-###### Observations & Measurements (OGC standard and json serialization)
-####### WaterML2 (OGC standard)
-##### Water Use and Quantity administration
-###### WaDE
-
+Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.

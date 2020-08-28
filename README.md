@@ -8,13 +8,18 @@ Tabula
 
 Excalibur
 
-### Web-based tools
+### Free Web-based tools
 
-DocParser
+
+https://ocr.space
 
 ### Enterprise software
 
 ABBYY FineReader
+
+DocParser
+
+Adobe Acrobat
 
 ### Cloud provider/ machine learning workflows
 
@@ -29,7 +34,13 @@ Data catalogs provide ways to discover data sets. They may or may not provide di
 
 ### Clowder
 
-### 
+### DKAN
+
+### Junar
+
+### Geonode
+
+### ArcGIS Hub
 
 ## Collaborative data sharing tools
 

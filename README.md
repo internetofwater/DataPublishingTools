@@ -4,13 +4,22 @@
 
 ### Open source OCR tools
 
+Tabula
+
+Excalibur
+
 ### Web-based tools
+
+DocParser
 
 ### Enterprise software
 
+ABBYY FineReader
+
 ### Cloud provider/ machine learning workflows
 
-
+AWS Textract
+Google Document AI
 
 ## Data Cataloging software
 

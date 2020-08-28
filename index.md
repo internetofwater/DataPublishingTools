@@ -1,37 +1,94 @@
-## Welcome to GitHub Pages
+# Data Publishing Tools
 
-You can use the [editor on GitHub](https://github.com/internetofwater/DataPublishingTools/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Data digitization software and workflows
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Open source OCR tools
 
-### Markdown
+Tabula
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Excalibur
 
-```markdown
-Syntax highlighted code block
+### Free Web-based tools
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+https://ocr.space
 
-1. Numbered
-2. List
+### Enterprise software
 
-**Bold** and _Italic_ and `Code` text
+ABBYY FineReader
 
-[Link](url) and ![Image](src)
-```
+DocParser
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Adobe Acrobat
 
-### Jekyll Themes
+### Cloud provider/ machine learning workflows
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/internetofwater/DataPublishingTools/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+AWS Textract
+Google Document AI
 
-### Support or Contact
+## Data Cataloging software
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Data catalogs provide ways to discover data sets. They may or may not provide direct access to data.
+
+### CKAN
+
+### Clowder
+
+### DKAN
+
+### Junar
+
+### Geonode
+
+### ArcGIS Hub
+
+### Hydroshare
+
+## Collaborative data sharing tools
+
+Tools that allow the public or approved users to submit data for sharing with a desired audience (e.g. the public, a government agency, another organization)
+
+### Geonode
+
+## Standardized data publishing tools
+
+### Data Handlers
+
+#### OpenDAP
+
+#### ERDDAP
+
+### Single-type
+
+#### Sensor-based
+
+##### SOS
+
+##### SensorThings
+
+##### Kisters
+
+##### Aquatic Informatics
+
+##### EQuiS
+
+### Geospatial
+
+##### ESRI
+
+##### OGC Standards
+
+##### OGC WFS (Geoserver)
+##### OGC WMS (Geoserver)
+##### OGC WCS (Geoserver)
+##### OGC API - Features (pyGeoAPI)
+
+### Data Standards
+
+##### Water Quality - WQX
+##### Time Series
+###### Observations & Measurements (OGC standard and json serialization)
+####### WaterML2 (OGC standard)
+##### Water Use and Quantity administration
+###### WaDE
+

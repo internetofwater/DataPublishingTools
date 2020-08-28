@@ -82,3 +82,12 @@ Tools that allow the public or approved users to submit data for sharing with a 
 ##### OGC WMS (Geoserver)
 ##### OGC WCS (Geoserver)
 ##### OGC API - Features (pyGeoAPI)
+
+### Data Standards
+
+##### Water Quality - WQX
+##### Time Series
+###### Observations & Measurements (OGC standard and json serialization)
+####### WaterML2 (OGC standard)
+##### Water Use and Quantity administration
+###### WaDE

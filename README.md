@@ -71,3 +71,14 @@ Tools that allow the public or approved users to submit data for sharing with a 
 ##### Aquatic Informatics
 
 ##### EQuiS
+
+### Geospatial
+
+##### ESRI
+
+##### OGC Standards
+
+##### OGC WFS (Geoserver)
+##### OGC WMS (Geoserver)
+##### OGC WCS (Geoserver)
+##### OGC API - Features (pyGeoAPI)
